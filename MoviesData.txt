@@ -1,0 +1,12 @@
+Movie Name :Iron Man
+Movie Year :2008
+Movie Duration :2h 6m
+Movie Rate :7.9/101.2M
+Movie Type :2008------------------------
+
+Movie Name :
+Movie Year :2004
+Movie Duration :1h 43m
+Movie Rate :7.6/10492K
+Movie Type :2004------------------------
+
